@@ -1,0 +1,5 @@
+main #h1.li, #h2.li, #h3.li, #h4.li {
+color:blue;
+text-align: center;
+border: solid 1px;
+}
