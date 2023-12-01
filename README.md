@@ -15,3 +15,5 @@ HTML page
 screenshots
 
 ## Credits
+Github Repo : https://github.com/ceewizz/Prework
+Deployment app: https://ceewizz.github.io/Prework
